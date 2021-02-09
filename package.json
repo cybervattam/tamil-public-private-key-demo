@@ -1,6 +1,6 @@
 {
-  "name": "blockchain-demo",
-  "description": "A web-based demonstration of publick key / private key concepts.",
+  "name": "tamil-blockchain-demo",
+  "description": "A web-based demonstration of publick key / private key concepts in Tamil.",
   "author": {
     "name": "Anders Brownworth"
   },
@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anders94/public-key-private-key-demo.git"
+    "url": "git+https://github.com/vjambulingam/tamil-public-private-key-demo.git"
   },
   "bugs": {
-    "url": "https://github.com/anders94/public-key-private-key-demo/issues"
+    "url": "https://github.com/vjambulingam/tamil-public-private-key-demo/issues"
   },
   "license": "MIT",
   "dependencies": {
@@ -29,11 +29,11 @@
     "pug": "^2.0.4",
     "serve-favicon": "^2.3.0"
   },
-  "homepage": "https://github.com/anders94/public-key-private-key-demo#readme",
+  "homepage": "https://github.com/vjambulingam/tamil-public-private-key-demo#readme",
   "maintainers": [
     {
-      "name": "anders",
-      "email": "anders-git@evantide.com"
+      "name": "Venkatesh Jambulingam",
+      "email": "vjambulingam@gmail.com"
     }
   ]
 }

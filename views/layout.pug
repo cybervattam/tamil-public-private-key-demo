@@ -7,7 +7,7 @@ html(lang='en')
     meta(name='author', content='Anders Brownworth')
     link(rel='icon', href='/favicon.ico')
 
-    title Blockchain Demo: Public / Private Keys &amp; Signing
+    title கட்டச்சங்கிலி வெள்ளோட்டம்: பொதுத்திறவி / தனித்திறவி &amp; ஒப்பமிடல்
 
     link(rel='stylesheet', href='/stylesheets/lib/bootstrap.min.css')
     link(rel='stylesheet', href='/stylesheets/public-key-private-key.css')
@@ -26,18 +26,18 @@ html(lang='en')
 
   body
     nav.navbar.navbar-expand-md.navbar-dark.fixed-top.bg-dark
-      a.navbar-brand(href='/') Blockchain Demo: Public / Private Keys &amp; Signing
+      a.navbar-brand(href='/') கட்டச்சங்கிலி வெள்ளோட்டம்: பொதுத்திறவி / தனித்திறவி &amp; ஒப்பமிடல்
       button.navbar-toggler(type='button', data-toggle='collapse', data-target='#collapsingNavbar' aria-controls='collapsingNavbar', aria-expanded='false', aria-label='Toggle navigation')
         span.navbar-toggler-icon
       .navbar-collapse.collapse#collapsingNavbar
         ul.navbar-nav.ml-auto
           li.nav-item(class={active: page === 'keys'})
-            a.nav-link(href='/keys') Keys
+            a.nav-link(href='/keys') திறவிகள்
           li.nav-item(class={active: page === 'signatures'})
-            a.nav-link(href='/signatures') Signatures
+            a.nav-link(href='/signatures') ஒப்பம்
           li.nav-item(class={active: page === 'transaction'})
-            a.nav-link(href='/transaction') Transaction
+            a.nav-link(href='/transaction') பரிவர்த்தனை
           li.nav-item(class={active: page === 'blockchain'})
-            a.nav-link(href='/blockchain') Blockchain
+            a.nav-link(href='/blockchain') கட்டச்சங்கிலி
 
     block content
