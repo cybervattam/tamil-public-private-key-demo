@@ -4,7 +4,7 @@
 ## அமைவு வழிகாட்டி
 வெள்ளோட்டத்தின் மூலக்கூற்றை பதிவிறக்கம் செய்யவும்:
 ```
-git clone https://github.com/vjambulingam/tamil-public-private-key-demo.git
+git clone https://github.com/cybervattam/tamil-public-private-key-demo.git
 ```
 
 சார்புகளை நிறுவவும்:
